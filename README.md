@@ -20,8 +20,8 @@ go run main.go
 ```
 
 ## Function
-Retrieve product data from the website as needed such as url, image, name and price.
-Export into CSV file.
+1. Retrieve product data from the website as needed such as url, image, name and price.
+2. Export into CSV file.
 
 ## Reference
 [Web Scraping in Golang: Complete Guide 2023](https://www.zenrows.com/blog/web-scraping-golang#advanced-techniques-in-web-scraping-with-golang)
